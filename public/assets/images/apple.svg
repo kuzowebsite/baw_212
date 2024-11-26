@@ -1,0 +1,22 @@
+<svg
+  width="2000"
+  height="1000"
+  viewBox="0 0 2000 1000"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="2000" height="1000" fill="black" />
+  
+  <!-- Text -->
+  <text
+    x="50%"
+    y="50%"
+    fill="white"
+    font-size="800"
+    font-family="Arial, sans-serif"
+    text-anchor="middle"
+    alignment-baseline="middle"
+  >
+    212
+  </text>
+</svg>
