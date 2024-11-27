@@ -57,7 +57,7 @@ const Navbar = () => {
                 className="text-black self-end"
                 onClick={toggleMenu}
               >
-                Close
+                X
               </button>
               {navLists.map((nav) => (
                 <div

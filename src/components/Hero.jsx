@@ -20,7 +20,7 @@ const Hero = () => {
     return () => {
       window.removeEventListener('resize', handleVideoSrcSet);
     };
-  }, []);
+  }, []);　
 
   useGSAP(() => {
     gsap.to('#cta', { opacity: 1, y: -20, delay: 2 });
